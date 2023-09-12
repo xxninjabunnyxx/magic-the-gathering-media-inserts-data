@@ -1,0 +1,111 @@
+---
+object: card
+id: b00553c7-d3f9-4d77-8433-2f425361516f
+oracle_id: 47437865-0032-4f47-b0ab-034cc841bb84
+multiverse_ids: []
+tcgplayer_id: 218310
+cardmarket_id: 245061
+name: Chandra's Outrage
+lang: ja
+released_at: '2010-06-27'
+uri: https://api.scryfall.com/cards/b00553c7-d3f9-4d77-8433-2f425361516f
+scryfall_uri: https://scryfall.com/card/pmei/18/ja/chandras-outrage?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/0/b00553c7-d3f9-4d77-8433-2f425361516f.jpg?1562927752
+  normal: https://cards.scryfall.io/normal/front/b/0/b00553c7-d3f9-4d77-8433-2f425361516f.jpg?1562927752
+  large: https://cards.scryfall.io/large/front/b/0/b00553c7-d3f9-4d77-8433-2f425361516f.jpg?1562927752
+  png: https://cards.scryfall.io/png/front/b/0/b00553c7-d3f9-4d77-8433-2f425361516f.png?1562927752
+  art_crop: https://cards.scryfall.io/art_crop/front/b/0/b00553c7-d3f9-4d77-8433-2f425361516f.jpg?1562927752
+  border_crop: https://cards.scryfall.io/border_crop/front/b/0/b00553c7-d3f9-4d77-8433-2f425361516f.jpg?1562927752
+mana_cost: "{2}{R}{R}"
+cmc: 4.0
+type_line: Instant
+oracle_text: Chandra's Outrage deals 4 damage to target creature and 2 damage to that
+  creature's controller.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 80b77354-aa37-420c-a9a2-8a0c66989f23
+set: pmei
+set_name: Media Inserts
+set_type: promo
+set_uri: https://api.scryfall.com/sets/80b77354-aa37-420c-a9a2-8a0c66989f23
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apmei&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pmei?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b00553c7-d3f9-4d77-8433-2f425361516f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A47437865-0032-4f47-b0ab-034cc841bb84&unique=prints
+collector_number: '18'
+digital: false
+rarity: common
+watermark: dengekimaoh
+flavor_text: |-
+  "Her mind is an incredible mix of emotion and power. Even if I could grasp it, I couldn't hold it for long."
+  —Jace Beleren, on Chandra Nalaar
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: 7fd1f857-5bda-4bf4-8a9e-a4fe538fbb06
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 12414
+penny_rank: 11323
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: '20.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Chandra%27s+Outrage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Chandra%27s+Outrage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Chandra%27s+Outrage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/218310?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chandra%27s+Outrage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chandra%27s+Outrage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

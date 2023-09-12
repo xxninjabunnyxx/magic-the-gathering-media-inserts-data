@@ -1,0 +1,119 @@
+---
+object: card
+id: 94355044-e67a-4605-a37b-e879784fc9e5
+oracle_id: 9d3c7c96-056f-408e-a834-fa45a430d3d4
+multiverse_ids: []
+tcgplayer_id: 218633
+cardmarket_id: 444413
+name: Daxos, Blessed by the Sun
+printed_name: 太陽に祝福されしダクソス
+lang: ja
+released_at: '2020-03-01'
+uri: https://api.scryfall.com/cards/94355044-e67a-4605-a37b-e879784fc9e5
+scryfall_uri: https://scryfall.com/card/pmei/36/ja/%E5%A4%AA%E9%99%BD%E3%81%AB%E7%A5%9D%E7%A6%8F%E3%81%95%E3%82%8C%E3%81%97%E3%83%80%E3%82%AF%E3%82%BD%E3%82%B9?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/4/94355044-e67a-4605-a37b-e879784fc9e5.jpg?1588680968
+  normal: https://cards.scryfall.io/normal/front/9/4/94355044-e67a-4605-a37b-e879784fc9e5.jpg?1588680968
+  large: https://cards.scryfall.io/large/front/9/4/94355044-e67a-4605-a37b-e879784fc9e5.jpg?1588680968
+  png: https://cards.scryfall.io/png/front/9/4/94355044-e67a-4605-a37b-e879784fc9e5.png?1588680968
+  art_crop: https://cards.scryfall.io/art_crop/front/9/4/94355044-e67a-4605-a37b-e879784fc9e5.jpg?1588680968
+  border_crop: https://cards.scryfall.io/border_crop/front/9/4/94355044-e67a-4605-a37b-e879784fc9e5.jpg?1588680968
+mana_cost: "{W}{W}"
+cmc: 2.0
+type_line: Legendary Enchantment Creature — Demigod
+printed_type_line: 伝説のクリーチャー・エンチャント — 亜神
+oracle_text: |-
+  Daxos's toughness is equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)
+  Whenever another creature you control enters the battlefield or dies, you gain 1 life.
+printed_text: |-
+  太陽に祝福されしダクソスのタフネスは、あなたの白への信心に等しい。（あなたの白への信心とは、あなたがコントロールしているパーマネントのマナ・コストに含まれる{W}の総数である。）
+  他の、あなたがコントロールしているクリーチャーが１体、戦場に出るか死亡するたび、あなたは１点のライフを得る。
+power: '2'
+toughness: "*"
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 80b77354-aa37-420c-a9a2-8a0c66989f23
+set: pmei
+set_name: Media Inserts
+set_type: promo
+set_uri: https://api.scryfall.com/sets/80b77354-aa37-420c-a9a2-8a0c66989f23
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apmei&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pmei?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/94355044-e67a-4605-a37b-e879784fc9e5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9d3c7c96-056f-408e-a834-fa45a430d3d4&unique=prints
+collector_number: '36'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Lius Lasahido
+artist_ids:
+- 0a0e9093-ce44-4a69-93a7-09b63e7c330d
+illustration_id: '08942e0a-1a8b-41d1-a039-47fbbf026c6e'
+border_color: black
+frame: '2015'
+frame_effects:
+- nyxtouched
+- legendary
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 1386
+penny_rank: 2441
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: '3.99'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Daxos%2C+Blessed+by+the+Sun&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Daxos%2C+Blessed+by+the+Sun&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Daxos%2C+Blessed+by+the+Sun
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/218633?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Daxos%2C+Blessed+by+the+Sun&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Daxos%2C+Blessed+by+the+Sun&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

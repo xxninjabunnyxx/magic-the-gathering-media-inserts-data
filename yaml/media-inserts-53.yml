@@ -1,0 +1,116 @@
+---
+object: card
+id: a39f9b77-d2ab-4980-877a-4aa4687a4a4b
+oracle_id: 10b8d4c7-7553-4d76-b643-d98b80701e13
+multiverse_ids: []
+tcgplayer_id: 511499
+name: Gingerbrute
+printed_name: ジンジャーブルート
+lang: ja
+released_at: '2023-08-04'
+uri: https://api.scryfall.com/cards/a39f9b77-d2ab-4980-877a-4aa4687a4a4b
+scryfall_uri: https://scryfall.com/card/pmei/53/ja/%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BC%E3%83%88?utm_source=api
+layout: normal
+highres_image: false
+image_status: lowres
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/3/a39f9b77-d2ab-4980-877a-4aa4687a4a4b.jpg?1690834863
+  normal: https://cards.scryfall.io/normal/front/a/3/a39f9b77-d2ab-4980-877a-4aa4687a4a4b.jpg?1690834863
+  large: https://cards.scryfall.io/large/front/a/3/a39f9b77-d2ab-4980-877a-4aa4687a4a4b.jpg?1690834863
+  png: https://cards.scryfall.io/png/front/a/3/a39f9b77-d2ab-4980-877a-4aa4687a4a4b.png?1690834863
+  art_crop: https://cards.scryfall.io/art_crop/front/a/3/a39f9b77-d2ab-4980-877a-4aa4687a4a4b.jpg?1690834863
+  border_crop: https://cards.scryfall.io/border_crop/front/a/3/a39f9b77-d2ab-4980-877a-4aa4687a4a4b.jpg?1690834863
+mana_cost: "{1}"
+cmc: 1.0
+type_line: Artifact Creature — Food Golem
+printed_type_line: アーティファクト・クリーチャー — 食物・ゴーレム
+oracle_text: |-
+  Haste
+  {1}: Gingerbrute can't be blocked this turn except by creatures with haste.
+  {2}, {T}, Sacrifice Gingerbrute: You gain 3 life.
+printed_text: |-
+  速攻
+  {1}：このターン、ジンジャーブルートは、速攻を持つクリーチャーによってしかブロックされない。
+  {2}, {T}, ジンジャーブルートを生け贄に捧げる：あなたは３点のライフを得る。
+power: '1'
+toughness: '1'
+colors: []
+color_identity: []
+keywords:
+- Haste
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 80b77354-aa37-420c-a9a2-8a0c66989f23
+set: pmei
+set_name: Media Inserts
+set_type: promo
+set_uri: https://api.scryfall.com/sets/80b77354-aa37-420c-a9a2-8a0c66989f23
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apmei&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pmei?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a39f9b77-d2ab-4980-877a-4aa4687a4a4b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A10b8d4c7-7553-4d76-b643-d98b80701e13&unique=prints
+collector_number: '53'
+digital: false
+rarity: rare
+flavor_text: どうやらあのラベルのない瓶の中身はバニラエッセンスではなかったようだ。
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vincent Proce
+artist_ids:
+- d82b1138-76d3-49f7-9d8c-bc2e2d3e0b0a
+illustration_id: a01b66b0-3664-4211-9f74-3693fd389406
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 1453
+penny_rank: 258
+prices:
+  usd: 
+  usd_foil: '19.93'
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gingerbrute&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gingerbrute&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Gingerbrute
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/511499?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gingerbrute&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gingerbrute&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

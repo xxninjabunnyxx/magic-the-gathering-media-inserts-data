@@ -1,0 +1,135 @@
+---
+object: card
+id: 74417059-a6d0-4810-8b4d-6b0f26d73783
+oracle_id: 1f9efad1-9f51-47aa-a5a7-9c8103435a01
+multiverse_ids: []
+cardmarket_id: 530777
+name: Hypnotic Sprite // Mesmeric Glare
+lang: ja
+released_at: '2019-11-15'
+uri: https://api.scryfall.com/cards/74417059-a6d0-4810-8b4d-6b0f26d73783
+scryfall_uri: https://scryfall.com/card/pmei/40/ja/%E6%83%91%E4%B9%B1%E3%82%B9%E3%83%97%E3%83%A9%E3%82%A4%E3%83%88-%E5%82%AC%E7%9C%A0%E3%81%AE%E8%BC%9D%E3%81%8D?utm_source=api
+layout: adventure
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/4/74417059-a6d0-4810-8b4d-6b0f26d73783.jpg?1600310675
+  normal: https://cards.scryfall.io/normal/front/7/4/74417059-a6d0-4810-8b4d-6b0f26d73783.jpg?1600310675
+  large: https://cards.scryfall.io/large/front/7/4/74417059-a6d0-4810-8b4d-6b0f26d73783.jpg?1600310675
+  png: https://cards.scryfall.io/png/front/7/4/74417059-a6d0-4810-8b4d-6b0f26d73783.png?1600310675
+  art_crop: https://cards.scryfall.io/art_crop/front/7/4/74417059-a6d0-4810-8b4d-6b0f26d73783.jpg?1600310675
+  border_crop: https://cards.scryfall.io/border_crop/front/7/4/74417059-a6d0-4810-8b4d-6b0f26d73783.jpg?1600310675
+mana_cost: "{U}{U} // {2}{U}"
+cmc: 2.0
+type_line: Creature — Faerie // Instant — Adventure
+power: '2'
+toughness: '1'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+card_faces:
+- object: card_face
+  name: Hypnotic Sprite
+  printed_name: 惑乱スプライト
+  mana_cost: "{U}{U}"
+  type_line: Creature — Faerie
+  printed_type_line: クリーチャー — フェアリー
+  oracle_text: Flying
+  printed_text: 飛行
+  power: '2'
+  toughness: '1'
+  watermark: corocoro
+  artist: Irina Nordsol
+  artist_id: 1e4cb52d-476e-4c68-ac87-2e620aede6d4
+  illustration_id: e6316eeb-83cc-4cac-a94c-3dee4aa48ae5
+- object: card_face
+  name: Mesmeric Glare
+  flavor_name: ''
+  printed_name: 催眠の輝き
+  mana_cost: "{2}{U}"
+  type_line: Instant — Adventure
+  printed_type_line: インスタント ― 出来事
+  oracle_text: Counter target spell with mana value 3 or less. (Then exile this card.
+    You may cast the creature later from exile.)
+  printed_text: 点数で見たマナ・コストが３以下の呪文１つを対象とし、それを打ち消す。（その後、このカードを追放する。あなたは後で追放領域からこのクリーチャーを唱えてもよい。）
+  artist: Irina Nordsol
+  artist_id: 1e4cb52d-476e-4c68-ac87-2e620aede6d4
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 80b77354-aa37-420c-a9a2-8a0c66989f23
+set: pmei
+set_name: Media Inserts
+set_type: promo
+set_uri: https://api.scryfall.com/sets/80b77354-aa37-420c-a9a2-8a0c66989f23
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apmei&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pmei?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/74417059-a6d0-4810-8b4d-6b0f26d73783/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1f9efad1-9f51-47aa-a5a7-9c8103435a01&unique=prints
+collector_number: '40'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Irina Nordsol
+artist_ids:
+- 1e4cb52d-476e-4c68-ac87-2e620aede6d4
+illustration_id: e6316eeb-83cc-4cac-a94c-3dee4aa48ae5
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 6230
+penny_rank: 1058
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: '7.90'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hypnotic+Sprite+%2F%2F+Mesmeric+Glare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hypnotic+Sprite+%2F%2F+Mesmeric+Glare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hypnotic+Sprite
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Hypnotic+Sprite&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hypnotic+Sprite&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hypnotic+Sprite&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,113 @@
+---
+object: card
+id: 1a1e5ad3-00fa-4b6b-a0a3-d52fcbe897ac
+oracle_id: 0fe01c7d-f435-44c1-82f1-0ec2c47d4704
+multiverse_ids: []
+cardmarket_id: 530782
+name: Heliod's Pilgrim
+printed_name: ヘリオッドの巡礼者
+lang: ja
+released_at: '2020-03-14'
+uri: https://api.scryfall.com/cards/1a1e5ad3-00fa-4b6b-a0a3-d52fcbe897ac
+scryfall_uri: https://scryfall.com/card/pmei/41/ja/%E3%83%98%E3%83%AA%E3%82%AA%E3%83%83%E3%83%89%E3%81%AE%E5%B7%A1%E7%A4%BC%E8%80%85?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/a/1a1e5ad3-00fa-4b6b-a0a3-d52fcbe897ac.jpg?1600310591
+  normal: https://cards.scryfall.io/normal/front/1/a/1a1e5ad3-00fa-4b6b-a0a3-d52fcbe897ac.jpg?1600310591
+  large: https://cards.scryfall.io/large/front/1/a/1a1e5ad3-00fa-4b6b-a0a3-d52fcbe897ac.jpg?1600310591
+  png: https://cards.scryfall.io/png/front/1/a/1a1e5ad3-00fa-4b6b-a0a3-d52fcbe897ac.png?1600310591
+  art_crop: https://cards.scryfall.io/art_crop/front/1/a/1a1e5ad3-00fa-4b6b-a0a3-d52fcbe897ac.jpg?1600310591
+  border_crop: https://cards.scryfall.io/border_crop/front/1/a/1a1e5ad3-00fa-4b6b-a0a3-d52fcbe897ac.jpg?1600310591
+mana_cost: "{2}{W}"
+cmc: 3.0
+type_line: Creature — Human Cleric
+printed_type_line: クリーチャー — 人間・クレリック
+oracle_text: When Heliod's Pilgrim enters the battlefield, you may search your library
+  for an Aura card, reveal it, put it into your hand, then shuffle.
+printed_text: ヘリオッドの巡礼者が戦場に出たとき、あなたは「あなたのライブラリーからオーラ・カード１枚を探し、公開し、あなたの手札に加え、その後あなたのライブラリーを切り直す。」を選んでもよい。
+power: '1'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 80b77354-aa37-420c-a9a2-8a0c66989f23
+set: pmei
+set_name: Media Inserts
+set_type: promo
+set_uri: https://api.scryfall.com/sets/80b77354-aa37-420c-a9a2-8a0c66989f23
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apmei&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pmei?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1a1e5ad3-00fa-4b6b-a0a3-d52fcbe897ac/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0fe01c7d-f435-44c1-82f1-0ec2c47d4704&unique=prints
+collector_number: '41'
+digital: false
+rarity: rare
+watermark: corocoro
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Micah Epstein
+artist_ids:
+- 957ec398-9a5e-4f54-9090-37a06d57b96c
+illustration_id: fbd3b734-f303-4618-a55e-95f2c86d1673
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 2255
+penny_rank: 2285
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: '5.99'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Heliod%27s+Pilgrim&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Heliod%27s+Pilgrim&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Heliod%27s+Pilgrim
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Heliod%27s+Pilgrim&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Heliod%27s+Pilgrim&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Heliod%27s+Pilgrim&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

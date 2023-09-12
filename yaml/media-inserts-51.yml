@@ -1,0 +1,111 @@
+---
+object: card
+id: 3161968d-df23-42c0-8e16-b5746cf8f1d1
+oracle_id: 1a0770e6-b093-4439-baff-6889a50ba12e
+multiverse_ids: []
+tcgplayer_id: 512576
+name: Mental Misstep
+printed_name: "|Vgu$e&yl,tFRErt."
+lang: ph
+released_at: '2023-05-15'
+uri: https://api.scryfall.com/cards/3161968d-df23-42c0-8e16-b5746cf8f1d1
+scryfall_uri: https://scryfall.com/card/pmei/51/%7Cvgu$e&yltfrert?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/1/3161968d-df23-42c0-8e16-b5746cf8f1d1.jpg?1689411759
+  normal: https://cards.scryfall.io/normal/front/3/1/3161968d-df23-42c0-8e16-b5746cf8f1d1.jpg?1689411759
+  large: https://cards.scryfall.io/large/front/3/1/3161968d-df23-42c0-8e16-b5746cf8f1d1.jpg?1689411759
+  png: https://cards.scryfall.io/png/front/3/1/3161968d-df23-42c0-8e16-b5746cf8f1d1.png?1689411759
+  art_crop: https://cards.scryfall.io/art_crop/front/3/1/3161968d-df23-42c0-8e16-b5746cf8f1d1.jpg?1689411759
+  border_crop: https://cards.scryfall.io/border_crop/front/3/1/3161968d-df23-42c0-8e16-b5746cf8f1d1.jpg?1689411759
+mana_cost: "{U/P}"
+cmc: 1.0
+type_line: Instant
+printed_type_line: "|&EhcMYmL."
+oracle_text: |-
+  ({U/P} can be paid with either {U} or 2 life.)
+  Counter target spell with mana value 1.
+printed_text: "|co,fcrSenweLFrZDEEDMYmL JysYt,cosF,gYIYn."
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: banned
+  legacy: banned
+  pauper: not_legal
+  vintage: restricted
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 80b77354-aa37-420c-a9a2-8a0c66989f23
+set: pmei
+set_name: Media Inserts
+set_type: promo
+set_uri: https://api.scryfall.com/sets/80b77354-aa37-420c-a9a2-8a0c66989f23
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apmei&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pmei?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3161968d-df23-42c0-8e16-b5746cf8f1d1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1a0770e6-b093-4439-baff-6889a50ba12e&unique=prints
+collector_number: '51'
+digital: false
+rarity: rare
+watermark: phyrexian
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Erica Yang
+artist_ids:
+- fcc15b63-b280-49da-9fee-f862824a2fc8
+illustration_id: 493e0cb0-ff48-43c0-b1bf-f531da2c5ebb
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 488
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mental+Misstep&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mental+Misstep&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mental+Misstep
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/512576?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mental+Misstep&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mental+Misstep&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

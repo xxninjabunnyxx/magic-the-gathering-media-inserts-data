@@ -1,0 +1,112 @@
+---
+object: card
+id: 9731641c-f0c3-46eb-9fc2-155f9bc041a2
+oracle_id: cdaab6b0-1a2d-4809-8e6b-56013acd8f78
+multiverse_ids: []
+tcgplayer_id: 193854
+cardmarket_id: 373121
+name: Cast Down
+printed_name: 喪心
+lang: ja
+released_at: '2019-04-01'
+uri: https://api.scryfall.com/cards/9731641c-f0c3-46eb-9fc2-155f9bc041a2
+scryfall_uri: https://scryfall.com/card/pmei/30/ja/%E5%96%AA%E5%BF%83?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/7/9731641c-f0c3-46eb-9fc2-155f9bc041a2.jpg?1615159415
+  normal: https://cards.scryfall.io/normal/front/9/7/9731641c-f0c3-46eb-9fc2-155f9bc041a2.jpg?1615159415
+  large: https://cards.scryfall.io/large/front/9/7/9731641c-f0c3-46eb-9fc2-155f9bc041a2.jpg?1615159415
+  png: https://cards.scryfall.io/png/front/9/7/9731641c-f0c3-46eb-9fc2-155f9bc041a2.png?1615159415
+  art_crop: https://cards.scryfall.io/art_crop/front/9/7/9731641c-f0c3-46eb-9fc2-155f9bc041a2.jpg?1615159415
+  border_crop: https://cards.scryfall.io/border_crop/front/9/7/9731641c-f0c3-46eb-9fc2-155f9bc041a2.jpg?1615159415
+mana_cost: "{1}{B}"
+cmc: 2.0
+type_line: Instant
+printed_type_line: インスタント
+oracle_text: Destroy target nonlegendary creature.
+printed_text: 伝説でないクリーチャー１体を対象とし、それを破壊する。
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 80b77354-aa37-420c-a9a2-8a0c66989f23
+set: pmei
+set_name: Media Inserts
+set_type: promo
+set_uri: https://api.scryfall.com/sets/80b77354-aa37-420c-a9a2-8a0c66989f23
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apmei&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pmei?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9731641c-f0c3-46eb-9fc2-155f9bc041a2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acdaab6b0-1a2d-4809-8e6b-56013acd8f78&unique=prints
+collector_number: '30'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  「誰でも死後に思い出してもらえるかは心配なもの。でも心配ないわ、死は名も無き者のものよ。あなたに名前がある限リ、それを堂々と掲げなさい。」
+  ――リリアナ
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ittoku
+artist_ids:
+- d3a47c28-84e9-4b53-a236-5066ae1bb62f
+illustration_id: '0859f3a2-ef7c-417b-a327-c4eab8acbc1c'
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 3552
+prices:
+  usd: 
+  usd_foil: '23.07'
+  usd_etched: 
+  eur: 
+  eur_foil: '20.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cast+Down&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cast+Down&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cast+Down
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/193854?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cast+Down&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cast+Down&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

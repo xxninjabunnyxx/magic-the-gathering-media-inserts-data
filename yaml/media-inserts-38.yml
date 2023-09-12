@@ -1,0 +1,115 @@
+---
+object: card
+id: b464bf34-d651-496c-9a92-bee839af1fa6
+oracle_id: 53f7c868-b03e-4fc2-8dcf-a75bbfa3272b
+multiverse_ids: []
+tcgplayer_id: 218630
+cardmarket_id: 530787
+name: Dark Ritual
+printed_name: 暗黒の儀式
+lang: ja
+released_at: '2020-07-22'
+uri: https://api.scryfall.com/cards/b464bf34-d651-496c-9a92-bee839af1fa6
+scryfall_uri: https://scryfall.com/card/pmei/38/ja/%E6%9A%97%E9%BB%92%E3%81%AE%E5%84%80%E5%BC%8F?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/4/b464bf34-d651-496c-9a92-bee839af1fa6.jpg?1644346443
+  normal: https://cards.scryfall.io/normal/front/b/4/b464bf34-d651-496c-9a92-bee839af1fa6.jpg?1644346443
+  large: https://cards.scryfall.io/large/front/b/4/b464bf34-d651-496c-9a92-bee839af1fa6.jpg?1644346443
+  png: https://cards.scryfall.io/png/front/b/4/b464bf34-d651-496c-9a92-bee839af1fa6.png?1644346443
+  art_crop: https://cards.scryfall.io/art_crop/front/b/4/b464bf34-d651-496c-9a92-bee839af1fa6.jpg?1644346443
+  border_crop: https://cards.scryfall.io/border_crop/front/b/4/b464bf34-d651-496c-9a92-bee839af1fa6.jpg?1644346443
+mana_cost: "{B}"
+cmc: 1.0
+type_line: Instant
+printed_type_line: インスタント
+oracle_text: Add {B}{B}{B}.
+printed_text: "{B}{B}{B}を加える。"
+colors:
+- B
+color_identity:
+- B
+keywords: []
+produced_mana:
+- B
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: banned
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: banned
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 80b77354-aa37-420c-a9a2-8a0c66989f23
+set: pmei
+set_name: Media Inserts
+set_type: promo
+set_uri: https://api.scryfall.com/sets/80b77354-aa37-420c-a9a2-8a0c66989f23
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apmei&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pmei?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b464bf34-d651-496c-9a92-bee839af1fa6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A53f7c868-b03e-4fc2-8dcf-a75bbfa3272b&unique=prints
+collector_number: '38'
+digital: false
+rarity: rare
+flavor_text: |-
+  「ファイレクシアは虚空から生まれた。 機械の父、偉大なるヨーグモスはその完成された形を予見なされた。 かくして『偉大なる進化』が始まった。」
+  ———ファイレクシア経典
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tom Fleming
+artist_ids:
+- e220996f-9956-4049-9485-8599b61ce8a9
+illustration_id: d4e12cc8-d06a-4978-aa20-ff4e6b77b7b3
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 63
+penny_rank: 25
+prices:
+  usd: 
+  usd_foil: '13.21'
+  usd_etched: 
+  eur: 
+  eur_foil: '11.88'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dark+Ritual&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dark+Ritual&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Dark+Ritual
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/218630?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dark+Ritual&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dark+Ritual&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

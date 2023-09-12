@@ -1,0 +1,115 @@
+---
+object: card
+id: e165d16a-06c7-4373-9c36-89e127e669dd
+oracle_id: fa71db44-5181-4c51-8b24-7fbedf36e3ca
+multiverse_ids: []
+tcgplayer_id: 205945
+cardmarket_id: 412229
+name: Lava Coil
+printed_name: 溶岩コイル
+lang: ja
+released_at: '2019-07-13'
+uri: https://api.scryfall.com/cards/e165d16a-06c7-4373-9c36-89e127e669dd
+scryfall_uri: https://scryfall.com/card/pmei/33/ja/%E6%BA%B6%E5%B2%A9%E3%82%B3%E3%82%A4%E3%83%AB?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/1/e165d16a-06c7-4373-9c36-89e127e669dd.jpg?1585489516
+  normal: https://cards.scryfall.io/normal/front/e/1/e165d16a-06c7-4373-9c36-89e127e669dd.jpg?1585489516
+  large: https://cards.scryfall.io/large/front/e/1/e165d16a-06c7-4373-9c36-89e127e669dd.jpg?1585489516
+  png: https://cards.scryfall.io/png/front/e/1/e165d16a-06c7-4373-9c36-89e127e669dd.png?1585489516
+  art_crop: https://cards.scryfall.io/art_crop/front/e/1/e165d16a-06c7-4373-9c36-89e127e669dd.jpg?1585489516
+  border_crop: https://cards.scryfall.io/border_crop/front/e/1/e165d16a-06c7-4373-9c36-89e127e669dd.jpg?1585489516
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Sorcery
+printed_type_line: ソーサリー
+oracle_text: Lava Coil deals 4 damage to target creature. If that creature would die
+  this turn, exile it instead.
+printed_text: クリーチャー１体を対象とする。溶岩コイルはそれに４点のダメージを与える。このターン、そのクリーチャーが死亡するなら、代わりにそれを追放する。
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 80b77354-aa37-420c-a9a2-8a0c66989f23
+set: pmei
+set_name: Media Inserts
+set_type: promo
+set_uri: https://api.scryfall.com/sets/80b77354-aa37-420c-a9a2-8a0c66989f23
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apmei&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pmei?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e165d16a-06c7-4373-9c36-89e127e669dd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afa71db44-5181-4c51-8b24-7fbedf36e3ca&unique=prints
+collector_number: '33'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  「司令官、ディミーアのスパイを捕らえ、その遺灰を監禁しました。」
+  ――ウォジェクの警備兵、クラム
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Wesley Burt & コーヘー
+artist_ids:
+- b98c9d94-8bdb-49af-871d-7bac92274535
+- 4899ac39-7c56-4645-adf4-0430c549ee51
+illustration_id: 8ccebed1-8cd9-4468-80ac-37a35cf24933
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 10453
+penny_rank: 2670
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: '7.99'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Lava+Coil&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Lava+Coil&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Lava+Coil
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/205945?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lava+Coil&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lava+Coil&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

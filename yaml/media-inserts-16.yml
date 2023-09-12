@@ -1,0 +1,112 @@
+---
+object: card
+id: 95ea30b2-654b-4892-ba58-e52334efb953
+oracle_id: 4893a301-29a8-4a0e-845c-8ddb5cb8db25
+multiverse_ids: []
+tcgplayer_id: 210880
+cardmarket_id: 252111
+name: Darksteel Juggernaut
+lang: ja
+released_at: '2010-12-01'
+uri: https://api.scryfall.com/cards/95ea30b2-654b-4892-ba58-e52334efb953
+scryfall_uri: https://scryfall.com/card/pmei/16/ja/darksteel-juggernaut?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/5/95ea30b2-654b-4892-ba58-e52334efb953.jpg?1562922830
+  normal: https://cards.scryfall.io/normal/front/9/5/95ea30b2-654b-4892-ba58-e52334efb953.jpg?1562922830
+  large: https://cards.scryfall.io/large/front/9/5/95ea30b2-654b-4892-ba58-e52334efb953.jpg?1562922830
+  png: https://cards.scryfall.io/png/front/9/5/95ea30b2-654b-4892-ba58-e52334efb953.png?1562922830
+  art_crop: https://cards.scryfall.io/art_crop/front/9/5/95ea30b2-654b-4892-ba58-e52334efb953.jpg?1562922830
+  border_crop: https://cards.scryfall.io/border_crop/front/9/5/95ea30b2-654b-4892-ba58-e52334efb953.jpg?1562922830
+mana_cost: "{5}"
+cmc: 5.0
+type_line: Artifact Creature — Juggernaut
+oracle_text: |-
+  Indestructible
+  Darksteel Juggernaut's power and toughness are each equal to the number of artifacts you control.
+  Darksteel Juggernaut attacks each combat if able.
+power: "*"
+toughness: "*"
+colors: []
+color_identity: []
+keywords:
+- Indestructible
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 80b77354-aa37-420c-a9a2-8a0c66989f23
+set: pmei
+set_name: Media Inserts
+set_type: promo
+set_uri: https://api.scryfall.com/sets/80b77354-aa37-420c-a9a2-8a0c66989f23
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apmei&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pmei?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/95ea30b2-654b-4892-ba58-e52334efb953/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4893a301-29a8-4a0e-845c-8ddb5cb8db25&unique=prints
+collector_number: '16'
+digital: false
+rarity: rare
+watermark: mirran
+flavor_text: One part unstoppable force, one part immovable object.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Randis Albion
+artist_ids:
+- c215830d-998a-430e-9d8d-aff8b4abf298
+illustration_id: 3c610dab-8f17-4b8c-8d44-c17004eb24c5
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 3863
+penny_rank: 6512
+prices:
+  usd: 
+  usd_foil: '38.79'
+  usd_etched: 
+  eur: 
+  eur_foil: '11.95'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Darksteel+Juggernaut&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Darksteel+Juggernaut&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Darksteel+Juggernaut
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/210880?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Darksteel+Juggernaut&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Darksteel+Juggernaut&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
